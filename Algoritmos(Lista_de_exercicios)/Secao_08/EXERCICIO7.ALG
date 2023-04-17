@@ -1,9 +1,10 @@
 Algoritmo "Exercicio7"
-// 
-//  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 25/05/2020
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos e Lógica de Programação(Geek University)
+// =============================================================
 Var
 // Seção de Declarações das variáveis 
    id,defeito,quantidade,quantidade_esfera,quantidade_limpeza,quantidade_troca_cabo,quantidade_quebrado:inteiro

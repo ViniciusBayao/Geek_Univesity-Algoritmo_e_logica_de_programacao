@@ -1,4 +1,10 @@
 algoritmo "Exercicio02"
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos e Lógica de Programação(Geek University)
+// =============================================================
 
 var
 num1, num2, soma, multiplicacao: inteiro

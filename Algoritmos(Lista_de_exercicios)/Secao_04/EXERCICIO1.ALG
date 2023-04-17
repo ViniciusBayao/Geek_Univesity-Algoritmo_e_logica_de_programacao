@@ -1,4 +1,10 @@
 algoritmo "Exercicio1"
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos e Lógica de Programação(Geek University)
+// =============================================================
 var
 codigo_peca:inteiro
 valor_peca:inteiro

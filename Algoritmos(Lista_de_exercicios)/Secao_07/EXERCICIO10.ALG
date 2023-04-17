@@ -1,9 +1,10 @@
 Algoritmo "Exercicio10"
-// 
-//  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Vinicius Bayão Gomes
-// Data atual  : 25/05/2020
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos e Lógica de Programação(Geek University)
+// =============================================================
 Var
 // Seção de Declarações das variáveis 
    idade:inteiro

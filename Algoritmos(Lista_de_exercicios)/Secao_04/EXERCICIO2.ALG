@@ -1,7 +1,10 @@
 algoritmo "Exercicio2"
-
-//Feito por:Vinicius Bayão Gomes.
+// =============================================================
 //
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos e Lógica de Programação(Geek University)
+// =============================================================
 var
 estoque_medio:real
 quantidade_maxima:inteiro

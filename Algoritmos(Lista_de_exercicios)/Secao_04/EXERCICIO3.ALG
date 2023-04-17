@@ -1,6 +1,10 @@
 algoritmo "Exercicio3"
-//Feito por:Vinicius Bayão Gomes
+// =============================================================
 //
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos e Lógica de Programação(Geek University)
+// =============================================================
 var
 n1,n2,Soma:inteiro
 
